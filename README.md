@@ -7,4 +7,4 @@
 [![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/@8bit-swap/v2-sdk/latest.svg)](https://bundlephobia.com/result?p=@8bit-swap/v2-sdk@latest)
 
 In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
-This code is forked from [Uniswap V2 SDK](https://github.com/Uniswap/sdk-v2) and shared across 8Bit-Swap TypeScript SDKs.
+This code is forked from [Uniswap V2 SDK](https://github.com/Uniswap/v2-sdk) and used by 8Bit-Swap frontend.
